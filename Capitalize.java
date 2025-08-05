@@ -16,7 +16,7 @@ for(int i=0;i<n;i++){
     sb.append(arr[i]);
 }
     }
-        public static void main(String[] args) {
+      public static void main(String[] args) {
     Capitalize cp=new Capitalize();
     cp.capital("hello world");
     }
